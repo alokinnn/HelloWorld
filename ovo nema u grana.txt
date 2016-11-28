@@ -1,1 +1,2 @@
 Ovo je u masteru
+Ovo je tekst iz grane
